@@ -1,2 +1,3 @@
 # Bigdata
-Contains small projects 
+Contains small projects used in Bigdata and analytics
+
